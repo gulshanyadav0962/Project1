@@ -1,0 +1,35 @@
+.section
+{
+    height:200px; 
+    width:200px; 
+    margin: 0px auto;
+    border-radius: 50%;
+    overflow: hidden;
+    
+}
+.section img
+{
+    height: 200px;
+
+}
+.footer
+{
+    min-height: 200px;
+
+}
+.footer img
+{
+  height: 100px;
+}
+.smi
+{
+    list-style-type: none;
+}
+.smi li 
+{
+ display: inline-block;
+ background-color:black;
+ color:whitesmoke;
+ padding: 4px 10px;
+ border-radius: 50%;
+}
